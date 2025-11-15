@@ -1,4 +1,4 @@
-import { evaluate } from "mathjs";
+import { evaluate } from "https://cdn.jsdelivr.net/npm/mathjs@12.4.1/+esm";
 
 //fix evaluation of expression within the parenthesis and 
 //display well defined error messages
