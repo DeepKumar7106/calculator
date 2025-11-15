@@ -1,5 +1,4 @@
-import { evaluate } from "/mathjs";
-import { evalExpression } from "./calculate";
+import { evaluate } from "mathjs";
 
 //fix evaluation of expression within the parenthesis and 
 //display well defined error messages
